@@ -1,0 +1,37 @@
+{
+  "files": {
+    "main.css": "/static/css/main.4624ce4a.css",
+    "main.js": "/static/js/main.f2fae916.js",
+    "static/js/453.f1b45ed2.chunk.js": "/static/js/453.f1b45ed2.chunk.js",
+    "static/media/color-sharp.png": "/static/media/color-sharp.bea361cfef80fefc2d1e.png",
+    "static/media/color-sharp2.png": "/static/media/color-sharp2.c87586c6c2f549cb4aa6.png",
+    "static/media/journal.png": "/static/media/journal.164e3d5fa5573cd7c056.png",
+    "static/media/3.png": "/static/media/3.108e98fc1844c7c214e7.png",
+    "static/media/5.png": "/static/media/5.76cb31110773d26282c8.png",
+    "static/media/2.png": "/static/media/2.51fde76d13ab0e893dd7.png",
+    "static/media/4.png": "/static/media/4.bdf01f207618b438bec1.png",
+    "static/media/6.png": "/static/media/6.af1c69fe547bf4d16cd9.png",
+    "static/media/1.png": "/static/media/1.41a7e4f4b4c9f768cb17.png",
+    "static/media/SirPickle.png": "/static/media/SirPickle.59837fc8d59bc6a70b5d.png",
+    "static/media/CentraNo2-Bold.ttf": "/static/media/CentraNo2-Bold.2faff7f7d3fc92a2fcd9.ttf",
+    "static/media/CentraNo2-Medium.ttf": "/static/media/CentraNo2-Medium.f94be5b326d78bb32b95.ttf",
+    "static/media/CentraNo2-Book.ttf": "/static/media/CentraNo2-Book.2b143fa4b734a3584043.ttf",
+    "static/media/testimonial2.png": "/static/media/testimonial2.0d6c83b398d018253d09.png",
+    "static/media/testimonial1.png": "/static/media/testimonial1.475b0021ed22e33ab041.png",
+    "static/media/SirPickle.jpg": "/static/media/SirPickle.e07e51b036da9482b4ef.jpg",
+    "static/media/revicons.eot": "/static/media/revicons.a77de540a38981833f9e.eot",
+    "static/media/revicons.ttf": "/static/media/revicons.57fd05d4ae650374c8de.ttf",
+    "static/media/revicons.woff": "/static/media/revicons.e8746a624ed098489406.woff",
+    "index.html": "/index.html",
+    "static/media/nav-icon3.svg": "/static/media/nav-icon3.08b285abb8e118b52637efa5d65c5367.svg",
+    "static/media/icons8-youtube.svg": "/static/media/icons8-youtube.4b6582ae74b3a184de928619638eeac9.svg",
+    "static/media/icons8-twitter-500.svg": "/static/media/icons8-twitter-500.521924b99214bf778df0b3ac52481f80.svg",
+    "main.4624ce4a.css.map": "/static/css/main.4624ce4a.css.map",
+    "main.f2fae916.js.map": "/static/js/main.f2fae916.js.map",
+    "453.f1b45ed2.chunk.js.map": "/static/js/453.f1b45ed2.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4624ce4a.css",
+    "static/js/main.f2fae916.js"
+  ]
+}
